@@ -1,0 +1,531 @@
+[
+    {
+        "id": 1,
+        "title": "Spaghetti Bolognese",
+        "ingredients": [
+            "200g spaghetti",
+            "150g ground beef",
+            "1 cup tomato sauce",
+            "1 onion",
+            "2 cloves garlic",
+            "Olive oil",
+            "Salt",
+            "Pepper"
+        ],
+        "instructions": [
+            "Sơ chế các nguyên liệu: cắt nhỏ rau củ, thái thịt và chuẩn bị gia vị.",
+            "Xào các nguyên liệu đã sơ chế với lửa vừa đến khi chuyển màu vàng đẹp.",
+            "Thêm muối, tiêu và các gia vị cần thiết, nêm nếm cho vừa khẩu vị.",
+            "Dùng kèm với cơm nóng hoặc bánh mì tùy theo sở thích."
+        ],
+        "cuisine": "Indian",
+        "time": "35 phút",
+        "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "author": "Kristen Phillips",
+        "date": "Jun 11, 2024",
+        "comments": 2,
+        "saves": 20,
+        "rating": {
+            "value": 3.5,
+            "reviews": 20
+        },
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "servings": "6 Serving",
+        "description": "Spaghetti Bolognese là món ăn truyền thống của Ý với sự kết hợp hoàn hảo giữa mì spaghetti mềm dai, sốt thịt bò đậm đà và cà chua tươi. Thường được phục vụ với phô mai Parmesan, mang lại hương vị béo ngậy và thơm lừng. Thích hợp cho bữa tối gia đình hoặc những dịp sum họp.",
+        "printable": true
+    },
+    {
+        "id": 2,
+        "title": "Chicken Curry",
+        "ingredients": [
+            "500g chicken",
+            "2 tbsp curry powder",
+            "400ml coconut milk",
+            "1 potato",
+            "1 carrot",
+            "Onion",
+            "Salt",
+            "Cooking oil"
+        ],
+        "instructions": [
+            "Rửa sạch và sơ chế các nguyên liệu cần thiết cho món chicken curry.",
+            "Hầm nguyên liệu trong nồi khoảng 20 phút để hương vị thấm đều.",
+            "Thêm nước mắm, hạt nêm và khuấy đều để gia vị ngấm vào nguyên liệu.",
+            "Múc ra bát/đĩa, thêm một ít nước sốt lên trên để tăng hương vị."
+        ],
+        "cuisine": "Mexican",
+        "time": "52 phút",
+        "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "author": "Hannah Santiago",
+        "date": "May 31, 2024",
+        "comments": 36,
+        "saves": 3,
+        "rating": {
+            "value": 3.1,
+            "reviews": 6
+        },
+        "prep_time": "9 mins",
+        "cook_time": "28 mins",
+        "servings": "2 Serving",
+        "description": "Chicken Curry là món cà ri đậm đà, thịt gà mềm mại hòa quyện cùng nước cốt dừa béo ngậy và gia vị cay nồng. Khoai tây và cà rốt chín vừa tới tạo nên hương vị cân bằng. Thưởng thức cùng cơm trắng nóng hổi sẽ làm tăng sự hấp dẫn.",
+        "printable": true
+    },
+    {
+        "id": 3,
+        "title": "Sushi cuộn",
+        "ingredients": [
+            "200g sushi rice",
+            "100g fresh salmon",
+            "1 cucumber",
+            "Seaweed",
+            "Sushi vinegar",
+            "Soy sauce",
+            "Wasabi"
+        ],
+        "instructions": [
+            "Rửa sạch và sơ chế các nguyên liệu cần thiết cho món sushi cuộn.",
+            "Hầm nguyên liệu trong nồi khoảng 20 phút để hương vị thấm đều.",
+            "Thêm muối, tiêu và các gia vị cần thiết, nêm nếm cho vừa khẩu vị.",
+            "Thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị."
+        ],
+        "cuisine": "Thai",
+        "time": "44 phút",
+        "image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "author": "Laura Schultz",
+        "date": "Jun 04, 2024",
+        "comments": 38,
+        "saves": 6,
+        "rating": {
+            "value": 3.6,
+            "reviews": 6
+        },
+        "prep_time": "8 mins",
+        "cook_time": "30 mins",
+        "servings": "3 Serving",
+        "description": "Sushi cuộn là món ăn truyền thống Nhật Bản với cơm dẻo trộn giấm, cuộn cùng cá hồi tươi, dưa chuột giòn và rong biển thơm. Chấm kèm nước tương và wasabi giúp món ăn thêm đậm đà và tươi mát.",
+        "printable": true
+    },
+    {
+        "id": 4,
+        "title": "Phở bò",
+        "ingredients": [
+            "500g beef bones",
+            "200g rare beef",
+            "Rice noodles",
+            "Spring onions",
+            "Onion",
+            "Pho spices",
+            "Fish sauce",
+            "Herbs"
+        ],
+        "instructions": [
+            "Rửa sạch và sơ chế các nguyên liệu cần thiết cho món phở bò.",
+            "Xào các nguyên liệu đã sơ chế với lửa vừa đến khi chuyển màu vàng đẹp.",
+            "Cho nước dùng hoặc nước lọc vào, đun sôi và giảm lửa nhỏ để ninh tiếp.",
+            "Dùng kèm với cơm nóng hoặc bánh mì tùy theo sở thích."
+        ],
+        "cuisine": "Mexican",
+        "time": "54 phút",
+        "image": "https://images.pexels.com/photos/3186654/pexels-photo-3186654.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "author": "Terry Brooks",
+        "date": "Jul 05, 2024",
+        "comments": 28,
+        "saves": 5,
+        "rating": {
+            "value": 3.6,
+            "reviews": 12
+        },
+        "prep_time": "5 mins",
+        "cook_time": "17 mins",
+        "servings": "6 Serving",
+        "description": "Phở bò là món ăn biểu tượng của Việt Nam, nước dùng ngọt thanh từ xương bò hầm nhiều giờ. Bánh phở mềm mịn kết hợp với thịt bò tái, hành lá và rau thơm, ăn kèm với chanh và ớt tạo nên hương vị đặc trưng.",
+        "printable": true
+    },
+    {
+        "id": 5,
+        "title": "Salad Hy Lạp",
+        "ingredients": [
+            "Cherry tomatoes",
+            "Cucumber",
+            "Feta cheese",
+            "Black olives",
+            "Red onion",
+            "Olive oil",
+            "Salt",
+            "Pepper"
+        ],
+        "instructions": [
+            "Rửa sạch và sơ chế các nguyên liệu cần thiết cho món salad hy lạp.",
+            "Hầm nguyên liệu trong nồi khoảng 20 phút để hương vị thấm đều.",
+            "Rắc thêm một chút đường và tiêu xay để tăng hương vị.",
+            "Thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị."
+        ],
+        "cuisine": "Vietnamese",
+        "time": "27 phút",
+        "image": "https://images.pexels.com/photos/699953/pexels-photo-699953.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "author": "Sheri Cardenas",
+        "date": "Feb 25, 2025",
+        "comments": 46,
+        "saves": 19,
+        "rating": {
+            "value": 5.0,
+            "reviews": 8
+        },
+        "prep_time": "7 mins",
+        "cook_time": "16 mins",
+        "servings": "2 Serving",
+        "description": "Salad Hy Lạp là món salad thanh mát với cà chua mọng nước, dưa chuột giòn, phô mai feta béo ngậy và ô liu đen mặn mà. Dầu ô liu và gia vị đơn giản giúp nổi bật hương vị tự nhiên của nguyên liệu.",
+        "printable": true
+    },
+    {
+        "id": 6,
+        "title": "Bánh mì kẹp thịt",
+        "ingredients": [
+            "2 slices of bread",
+            "100g ground beef",
+            "1 slice cheese",
+            "Lettuce",
+            "Tomato",
+            "Onion",
+            "Mayonnaise",
+            "Ketchup"
+        ],
+        "instructions": [
+            "Sơ chế các nguyên liệu: cắt nhỏ rau củ, thái thịt và chuẩn bị gia vị.",
+            "Đun nóng chảo với một ít dầu, cho bánh mì kẹp thịt vào và xào đều tay cho đến khi dậy mùi thơm.",
+            "Thêm nước mắm, hạt nêm và khuấy đều để gia vị ngấm vào nguyên liệu.",
+            "Trang trí món bánh mì kẹp thịt với rau thơm, hành lá và một ít ớt tươi thái lát."
+        ],
+        "cuisine": "Mexican",
+        "time": "21 phút",
+        "image": "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "author": "Stephanie Taylor",
+        "date": "Jun 03, 2024",
+        "comments": 11,
+        "saves": 13,
+        "rating": {
+            "value": 3.7,
+            "reviews": 20
+        },
+        "prep_time": "8 mins",
+        "cook_time": "12 mins",
+        "servings": "3 Serving",
+        "description": "Bánh mì kẹp thịt kiểu Mỹ với lớp bánh giòn nhẹ, thịt bò nướng chín vừa, phô mai tan chảy, xà lách và cà chua tươi. Sốt mayonnaise và ketchup tạo nên vị béo và chua ngọt cân bằng, phù hợp cho bữa ăn nhanh.",
+        "printable": true
+    },
+    {
+        "id": 7,
+        "title": "Tacos gà",
+        "ingredients": [
+            "2 tortillas",
+            "200g chicken",
+            "Bell pepper",
+            "Onion",
+            "Shredded cheese",
+            "Salsa sauce",
+            "Lettuce"
+        ],
+        "instructions": [
+            "Ngâm các nguyên liệu chính trong nước muối loãng khoảng 10 phút rồi để ráo.",
+            "Hầm nguyên liệu trong nồi khoảng 20 phút để hương vị thấm đều.",
+            "Rắc thêm một chút đường và tiêu xay để tăng hương vị.",
+            "Thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị."
+        ],
+        "cuisine": "French",
+        "time": "30 phút",
+        "image": "https://images.pexels.com/photos/1199960/pexels-photo-1199960.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "author": "Larry Delgado",
+        "date": "Dec 04, 2024",
+        "comments": 30,
+        "saves": 17,
+        "rating": {
+            "value": 3.3,
+            "reviews": 20
+        },
+        "prep_time": "8 mins",
+        "cook_time": "28 mins",
+        "servings": "4 Serving",
+        "description": "Tacos gà là món ăn Mexico với vỏ bánh tortilla mềm, nhân gà xào cay, ớt chuông, hành tây và phô mai. Thêm sốt salsa cay nồng giúp món ăn thêm phần đậm đà và hấp dẫn.",
+        "printable": true
+    },
+    {
+        "id": 8,
+        "title": "Bánh pancake",
+        "ingredients": [
+            "200g flour",
+            "2 eggs",
+            "300ml milk",
+            "2 tbsp sugar",
+            "1 tbsp baking powder",
+            "Butter",
+            "Honey"
+        ],
+        "instructions": [
+            "Chuẩn bị dụng cụ nấu nướng và các nguyên liệu cho món bánh pancake.",
+            "Đun nóng chảo với một ít dầu, cho bánh pancake vào và xào đều tay cho đến khi dậy mùi thơm.",
+            "Thêm nước mắm, hạt nêm và khuấy đều để gia vị ngấm vào nguyên liệu.",
+            "Múc ra bát/đĩa, thêm một ít nước sốt lên trên để tăng hương vị."
+        ],
+        "cuisine": "American",
+        "time": "40 phút",
+        "image": "https://images.pexels.com/photos/958546/pexels-photo-958546.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "author": "Mark Kennedy",
+        "date": "Apr 02, 2024",
+        "comments": 17,
+        "saves": 15,
+        "rating": {
+            "value": 4.3,
+            "reviews": 20
+        },
+        "prep_time": "12 mins",
+        "cook_time": "18 mins",
+        "servings": "4 Serving",
+        "description": "Bánh pancake mềm xốp, làm từ bột mì, trứng và sữa. Khi ăn kèm mật ong hoặc siro, hương vị ngọt ngào lan tỏa, thích hợp cho bữa sáng nhẹ nhàng.",
+        "printable": true
+    },
+    {
+        "id": 9,
+        "title": "Cơm chiên hải sản",
+        "ingredients": [
+            "1 bowl of rice",
+            "100g shrimp",
+            "50g squid",
+            "Egg",
+            "Peas",
+            "Carrot",
+            "Spring onions",
+            "Soy sauce"
+        ],
+        "instructions": [
+            "Rửa sạch và sơ chế các nguyên liệu cần thiết cho món cơm chiên hải sản.",
+            "Đun nóng chảo với một ít dầu, cho cơm chiên hải sản vào và xào đều tay cho đến khi dậy mùi thơm.",
+            "Thêm muối, tiêu và các gia vị cần thiết, nêm nếm cho vừa khẩu vị.",
+            "Dùng kèm với cơm nóng hoặc bánh mì tùy theo sở thích."
+        ],
+        "cuisine": "Italian",
+        "time": "40 phút",
+        "image": "https://images.pexels.com/photos/1893556/pexels-photo-1893556.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "author": "Phillip Smith",
+        "date": "Sep 13, 2024",
+        "comments": 15,
+        "saves": 19,
+        "rating": {
+            "value": 3.1,
+            "reviews": 14
+        },
+        "prep_time": "7 mins",
+        "cook_time": "26 mins",
+        "servings": "3 Serving",
+        "description": "Cơm chiên hải sản kết hợp tôm tươi, mực giòn và cơm chiên vàng. Cà rốt, đậu Hà Lan và trứng làm món ăn thêm màu sắc và dinh dưỡng. Chấm cùng nước tương giúp tăng hương vị.",
+        "printable": true
+    },
+    {
+        "id": 10,
+        "title": "Canh miso",
+        "ingredients": [
+            "500ml dashi broth",
+            "2 tbsp miso",
+            "Tofu",
+            "Seaweed",
+            "Spring onions"
+        ],
+        "instructions": [
+            "Rửa sạch và sơ chế các nguyên liệu cần thiết cho món canh miso.",
+            "Hầm nguyên liệu trong nồi khoảng 20 phút để hương vị thấm đều.",
+            "Thêm muối, tiêu và các gia vị cần thiết, nêm nếm cho vừa khẩu vị.",
+            "Múc ra bát/đĩa, thêm một ít nước sốt lên trên để tăng hương vị."
+        ],
+        "cuisine": "Japanese",
+        "time": "54 phút",
+        "image": "https://images.pexels.com/photos/1143754/pexels-photo-1143754.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "author": "Kevin Mcintosh",
+        "date": "Sep 30, 2024",
+        "comments": 15,
+        "saves": 3,
+        "rating": {
+            "value": 3.9,
+            "reviews": 2
+        },
+        "prep_time": "14 mins",
+        "cook_time": "29 mins",
+        "servings": "2 Serving",
+        "description": "Canh miso Nhật Bản với nước dùng dashi ngọt thanh, đậu hũ mềm và rong biển giòn nhẹ. Món canh này ấm áp, thích hợp cho bữa ăn nhẹ hoặc bữa sáng.",
+        "printable": true
+    },
+    {
+        "id": 11,
+        "title": "Gỏi cuốn",
+        "ingredients": [
+            "Rice paper",
+            "100g boiled shrimp",
+            "Pork belly",
+            "Fresh noodles",
+            "Herbs",
+            "Cucumber",
+            "Fermented fish sauce"
+        ],
+        "instructions": [
+            "Ngâm các nguyên liệu chính trong nước muối loãng khoảng 10 phút rồi để ráo.",
+            "Đun sôi nước, thêm gia vị cơ bản và cho nguyên liệu chính vào nấu chín.",
+            "Rắc thêm một chút đường và tiêu xay để tăng hương vị.",
+            "Thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị."
+        ],
+        "cuisine": "Indian",
+        "time": "52 phút",
+        "image": "https://images.pexels.com/photos/2161643/pexels-photo-2161643.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "author": "Ryan Huang",
+        "date": "Jul 26, 2024",
+        "comments": 22,
+        "saves": 14,
+        "rating": {
+            "value": 4.0,
+            "reviews": 9
+        },
+        "prep_time": "10 mins",
+        "cook_time": "13 mins",
+        "servings": "4 Serving",
+        "description": "Gỏi cuốn Việt Nam cuộn từ bánh tráng mỏng, tôm luộc, thịt ba chỉ, bún tươi và rau sống. Khi chấm với nước mắm nêm chua ngọt, món ăn trở nên thanh mát và hấp dẫn.",
+        "printable": true
+    },
+    {
+        "id": 12,
+        "title": "Pizza Margherita",
+        "ingredients": [
+            "Pizza dough",
+            "100g tomato sauce",
+            "150g mozzarella cheese",
+            "Basil leaves",
+            "Olive oil",
+            "Salt"
+        ],
+        "instructions": [
+            "Chuẩn bị dụng cụ nấu nướng và các nguyên liệu cho món pizza margherita.",
+            "Xào các nguyên liệu đã sơ chế với lửa vừa đến khi chuyển màu vàng đẹp.",
+            "Thêm muối, tiêu và các gia vị cần thiết, nêm nếm cho vừa khẩu vị.",
+            "Dùng kèm với cơm nóng hoặc bánh mì tùy theo sở thích."
+        ],
+        "cuisine": "Mexican",
+        "time": "20 phút",
+        "image": "https://images.pexels.com/photos/109641/pexels-photo-109641.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "author": "Jerry Casey",
+        "date": "Jul 15, 2024",
+        "comments": 14,
+        "saves": 11,
+        "rating": {
+            "value": 3.4,
+            "reviews": 10
+        },
+        "prep_time": "5 mins",
+        "cook_time": "16 mins",
+        "servings": "3 Serving",
+        "description": "Pizza Margherita với đế bánh giòn rụm, sốt cà chua tươi, phô mai mozzarella tan chảy và lá húng quế thơm nồng. Món ăn đơn giản nhưng đậm đà hương vị Ý.",
+        "printable": true
+    },
+    {
+        "id": 13,
+        "title": "Bánh flan",
+        "ingredients": [
+            "4 eggs",
+            "500ml milk",
+            "100g sugar",
+            "1 tbsp vanilla",
+            "Caramel sugar"
+        ],
+        "instructions": [
+            "Rửa sạch và sơ chế các nguyên liệu cần thiết cho món bánh flan.",
+            "Đun nóng chảo với một ít dầu, cho bánh flan vào và xào đều tay cho đến khi dậy mùi thơm.",
+            "Thêm nước mắm, hạt nêm và khuấy đều để gia vị ngấm vào nguyên liệu.",
+            "Thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị."
+        ],
+        "cuisine": "Greek",
+        "time": "53 phút",
+        "image": "https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "author": "Joanna Barrett",
+        "date": "Jul 04, 2024",
+        "comments": 6,
+        "saves": 9,
+        "rating": {
+            "value": 3.9,
+            "reviews": 7
+        },
+        "prep_time": "9 mins",
+        "cook_time": "12 mins",
+        "servings": "6 Serving",
+        "description": "Bánh flan mịn màng với lớp caramel ngọt nhẹ, phần bánh béo ngậy từ sữa và trứng. Vị ngọt dịu kết hợp với chút đắng nhẹ của caramel tạo nên món tráng miệng hoàn hảo.",
+        "printable": true
+    },
+    {
+        "id": 14,
+        "title": "Pad Thai",
+        "ingredients": [
+            "200g flat noodles",
+            "100g shrimp",
+            "Egg",
+            "Bean sprouts",
+            "Peanuts",
+            "Chives",
+            "Fish sauce",
+            "Palm sugar",
+            "Tamarind juice"
+        ],
+        "instructions": [
+            "Chuẩn bị dụng cụ nấu nướng và các nguyên liệu cho món pad thai.",
+            "Đun sôi nước, thêm gia vị cơ bản và cho nguyên liệu chính vào nấu chín.",
+            "Thêm muối, tiêu và các gia vị cần thiết, nêm nếm cho vừa khẩu vị.",
+            "Múc ra bát/đĩa, thêm một ít nước sốt lên trên để tăng hương vị."
+        ],
+        "cuisine": "Vietnamese",
+        "time": "57 phút",
+        "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "author": "Timothy Jordan",
+        "date": "May 08, 2024",
+        "comments": 33,
+        "saves": 0,
+        "rating": {
+            "value": 3.5,
+            "reviews": 7
+        },
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "servings": "3 Serving",
+        "description": "Pad Thai Thái Lan với bánh phở mềm, tôm tươi, trứng và giá đỗ giòn. Nước sốt chua ngọt kết hợp với đậu phộng rang giúp món ăn thêm bùi béo và đậm vị.",
+        "printable": true
+    },
+    {
+        "id": 15,
+        "title": "Lẩu Thái chua cay",
+        "ingredients": [
+            "Pork bones",
+            "200g shrimp",
+            "Squid",
+            "Mushrooms",
+            "Morning glory",
+            "Thai hotpot seasoning",
+            "Lime",
+            "Chili"
+        ],
+        "instructions": [
+            "Chuẩn bị dụng cụ nấu nướng và các nguyên liệu cho món lẩu thái chua cay.",
+            "Hầm nguyên liệu trong nồi khoảng 20 phút để hương vị thấm đều.",
+            "Thêm muối, tiêu và các gia vị cần thiết, nêm nếm cho vừa khẩu vị.",
+            "Thưởng thức ngay khi còn nóng để cảm nhận trọn vẹn hương vị."
+        ],
+        "cuisine": "Vietnamese",
+        "time": "32 phút",
+        "image": "https://images.pexels.com/photos/89778/strawberries-frisch-ripe-sweet-89778.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "author": "Zachary Young",
+        "date": "Aug 09, 2024",
+        "comments": 16,
+        "saves": 19,
+        "rating": {
+            "value": 4.5,
+            "reviews": 7
+        },
+        "prep_time": "15 mins",
+        "cook_time": "27 mins",
+        "servings": "6 Serving",
+        "description": "Lẩu Thái chua cay với nước dùng đậm đà, kết hợp vị chua từ chanh, cay từ ớt và ngọt từ hải sản tươi. Khi nhúng rau và nấm, hương vị bùng nổ trong từng miếng ăn.",
+        "printable": true
+    }
+]
