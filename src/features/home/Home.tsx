@@ -26,9 +26,7 @@ export default function Home() {
   useEffect(() => {
     dispatch(onLoading())
     const ingredients = ingredientsFilter.split(',').filter(item => item)
-    getRecipes({ keyword, ingredients })
-      .then(setListData).
-      then(() => dispatch(offLoading()))
+    getRecipes({ keyword, ingredients }).then(setListData).then(() => dispatch(offLoading()))
   }, [ingredientsFilterDebounce, keywordDebounce])
   return (
     <Layout>
