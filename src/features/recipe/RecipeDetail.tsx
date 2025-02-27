@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Recipe } from '../../model/Recipe';
-import recipeData from '../../data/data.json'
-import { replace, useNavigate, useParams } from 'react-router-dom';
+import {useNavigate, useParams } from 'react-router-dom';
 import Layout from '../../component/Layout';
 import UserIcon from '../../assets/icon/UserIcon';
 import CalendaIcon from '../../assets/icon/CalendaIcon';
