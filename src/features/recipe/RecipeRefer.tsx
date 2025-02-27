@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useLayoutEffect, useState } from 'react'
+import React, {useState } from 'react'
 import Slider from "react-slick";
 import Card from '../../component/Card';
 import { Link } from 'react-router-dom';
