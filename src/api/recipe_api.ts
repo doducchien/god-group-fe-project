@@ -37,7 +37,7 @@ export const getRecipes = (params: SearchParam)=>{
 }
 
 export const getRecipe = (id: number)=>{
-    const newData = data.find(item => item.id ==id);
+    const newData = data.find(item => item.id ===id);
     return fakeApi(newData);
 
 }
