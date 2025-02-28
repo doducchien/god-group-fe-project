@@ -50,8 +50,8 @@ const Footer = () => {
                         </h3>
                         <div className="text-sm space-y-2">
                             <p>📞 +84 333 021 099</p>
-                            <p>📧 contact@godgroup.com</p>
-                            <p>🌐 www.godgroup.com</p>
+                            <p>📧 contact@godhitech.com</p>
+                            <p>🌐 https://godhitech.com</p>
                         </div>
 
                         <h3 className="text-lg font-semibold mt-6 mb-4 border-l-4 border-red-500 pl-2">
@@ -63,7 +63,7 @@ const Footer = () => {
                 </div>
 
                 <div className="text-center text-xs mt-10 border-t border-gray-600 pt-4">
-                    © 2024 GOD GROUP. All rights reserved.
+                    ©  2025 GOD HITECH. All rights reserved.
                 </div>
             </Layout>
 

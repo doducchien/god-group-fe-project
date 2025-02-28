@@ -126,9 +126,9 @@ export default function Header() {
     <header className='fixed flex items-center backdrop-blur-sm top-0 left-0 right-0 w py-5 bg-white/40 z-10 mb-4 sm:px-2 max-sm:px-0'>
       <Layout>
         <div className='flex max-lg:flex-col max-lg:items-center lg:flex-row gap-x-6 gap-y-3'>
-          <div className='bg-white p-1 rounded-md -translate-y-2'>
+          <div className='bg-white p-1 rounded-md '>
             <img
-              src="https://www.godgroup.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-new.7a4c5141.png&w=640&q=75"
+              src="https://godhitech.com/assets/logo-DTV0RzVs.png"
               alt=""
               className='h-10'
             />
@@ -152,7 +152,7 @@ export default function Header() {
                 isMulti
                 className='outline-none'
                 options={colourOptions}
-                placeholder='Lọc theo'
+                placeholder='Lọc theo nguyên liệu'
               />
             </div>
             <div className='col-span-1 2xl:col-span-2 w-full'>
